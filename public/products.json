@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 99.99,
+      "sku": "WH-1000",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM53FpLvyrZySQJI-e8PWqCIJ2fu8hWlqOTA&s.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch",
+      "price": 199.99,
+      "sku": "SW-2000",
+      "description": "Advanced smartwatch with multiple health tracking features.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVDEGFI5AEY8FhYuUB525Rmux8tbzoxU54A&s.jpg"
+    },
+    {
+      "id": 3,
+      "name": "4K TV",
+      "price": 499.99,
+      "sku": "TV-4000",
+      "description": "Ultra HD 4K television with smart features and HDR support.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8gF_XRvzyDpleROEg8U8c6FpMqqaZ3Ld4g&s.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 59.99,
+      "sku": "BS-300",
+      "description": "Portable Bluetooth speaker with excellent sound quality.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8gF_XRvzyDpleROEg8U8c6FpMqqaZ3Ld4g&s.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 899.99,
+      "sku": "LP-5000",
+      "description": "High-performance laptop suitable for gaming and professional work.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8gF_XRvzyDpleROEg8U8c6FpMqqaZ3Ld4g&s.jpg"
+    }
+  ]
+}
+  
